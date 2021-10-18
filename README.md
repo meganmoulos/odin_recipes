@@ -1,0 +1,1 @@
+Brand new project for The Odin Project, featuring recipes. This will help me learn Git and Github. 
