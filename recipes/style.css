@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px; 
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 20px;
+    border: solid white 5px;
+}
+
+body {
+    background-color: #fadadd;
+}
