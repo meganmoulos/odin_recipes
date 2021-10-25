@@ -1,0 +1,27 @@
+body {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 60%;
+    border-radius: 20px;
+    border: solid white 5px;
+}
+
+.recipe-name {
+    font-size: 40px;
+    color: #a3555b;
+    margin-left: 150px;
+}
+
+main {
+    margin-left: 150px;
+}
